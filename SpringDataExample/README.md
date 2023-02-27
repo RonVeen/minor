@@ -1,6 +1,6 @@
 In deze directory vind je een voorbeeld project met Spring Data
 Import het project via File -> New project from existing sources
-Selecteer Maven als extern model
+Selecteer Maven als het extern model
 
 Maak daarna een nieuwe run configuratie aan voor tomcat of jetty en start het project vanuit IntelliJ
 
